@@ -1,10 +1,13 @@
 # About Me
 
-I'm a student at 42 Madrid
-###### Since Oct 2021
+Student at 42 Madrid since Oct 2021
+
+Trying to make my way as a programmer
+
+You can find me almost anywhere as @nico371 or @nucieda
 
 
-### These are my stats
+## 42 Stats
 [![nucieda-'s 42 stats](https://badge42.vercel.app/api/v2/clialmlmm001608mj8ajscinz/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 
