@@ -4,11 +4,11 @@ I'm a student at 42 Madrid
 ###### Since Oct 2021
 
 
-#### These are my stats
+### These are my stats
 [![nucieda-'s 42 stats](https://badge42.vercel.app/api/v2/clialmlmm001608mj8ajscinz/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 
-##### And these are my 3 most recent projects
+#### And these are my 3 most recent projects
 
 **Philosophers** [![nucieda-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/clialmlmm001608mj8ajscinz/project/3084905)](https://github.com/JaeSeoKim/badge42)
 
