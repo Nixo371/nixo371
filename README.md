@@ -9,7 +9,7 @@
 [![nucieda-'s 42 stats](https://badge42.vercel.app/api/v2/clialmlmm001608mj8ajscinz/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 
-#### And these are my 3 most recent projects
+#### My 3 most recent projects
 
 **Philosophers** [![nucieda-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/clialmlmm001608mj8ajscinz/project/3084905)](https://github.com/Nixo371/philo-42)
 
