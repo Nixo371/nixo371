@@ -11,7 +11,7 @@
 
 #### And these are my 3 most recent projects
 
-**Philosophers** [![nucieda-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/clialmlmm001608mj8ajscinz/project/3084905)](https://github.com/Nixo371/philosophers-42)
+**Philosophers** [![nucieda-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/clialmlmm001608mj8ajscinz/project/3084905)](https://github.com/Nixo371/philo-42)
 
 **so_long** [![nucieda-'s 42 so_long Score](https://badge42.vercel.app/api/v2/clialmlmm001608mj8ajscinz/project/3070571)](https://github.com/Nixo371/so_long-42)
 
